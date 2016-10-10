@@ -19,7 +19,7 @@ It has the common default fields in its `package.json`, along with production an
     "type": "git"
   },
   "author": "Yarn Contributors",
-  "license": "BSD",
+  "license": "BSD-2-Clause",
 }
 ```
 

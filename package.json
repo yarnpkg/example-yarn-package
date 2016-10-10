@@ -11,7 +11,7 @@
     "test": "jest"
   },
   "author": "Yarn Contributors",
-  "license": "BSD",
+  "license": "BSD-2-Clause",
   "dependencies": {
     "lodash": "^4.16.2"
   },
