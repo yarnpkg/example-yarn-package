@@ -4,7 +4,7 @@
 
 'use strict';
 
-// For package depenency demonstration purposes only
+// For package dependency demonstration purposes only
 var multiply = require('lodash/multiply');
 
 module.exports = {
