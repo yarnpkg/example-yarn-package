@@ -31,8 +31,8 @@ The `scripts` field are for any special scripts that you want to use when runnin
 
 ```
 "scripts": {
-    "test": "jest"
-  },
+  "test": "jest"
+},
 ```
 
 The `dependencies` field lists the other packages that this package is dependent upon. Our example package is dependent on [Lodash](https://lodash.com/) since we use its `multiply` function.
@@ -40,8 +40,8 @@ The `dependencies` field lists the other packages that this package is dependent
 
 ```
 "dependencies": {
-    "lodash": "^4.16.2"
-  },
+  "lodash": "^4.16.2"
+},
 ```
 
 The `devDependencies` field lists the other packages that this package is dependent upon *during development*. Our example package is dependent on [Jest](https://facebook.github.io/jest/) since we created some Jest-enabled tests for our package.
@@ -57,7 +57,7 @@ in a node environment at the command-line.
 
 ```
 "jest": {
-    "testEnvironment": "node"
+  "testEnvironment": "node"
 }
 ```
 
