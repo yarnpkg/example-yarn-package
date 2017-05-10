@@ -16,7 +16,7 @@
     "lodash": "^4.16.2"
   },
   "devDependencies": {
-    "jest-cli": "15.1.1"
+    "jest-cli": "20.0.0"
   },
   "jest": {
     "testEnvironment": "node"
