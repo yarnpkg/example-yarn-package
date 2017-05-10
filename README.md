@@ -4,6 +4,8 @@ It has the common default fields in its `package.json`, along with production an
 
 ## The `package.json`
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/yarnpkg/example-yarn-package.svg)](https://greenkeeper.io/)
+
 ### Default Package Fields
 
 `yarn init` produces a default `package.json` similar to:
